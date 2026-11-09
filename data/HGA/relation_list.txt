@@ -1,0 +1,5 @@
+org_id	remap_id
+api.category	0
+api.protocol	1
+api.data_format	2
+api.security	3

@@ -1,0 +1,5 @@
+org_id	remap_id
+Data Format	0
+Primary Category	1
+Protocol	2
+Security	4
