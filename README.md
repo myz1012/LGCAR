@@ -73,7 +73,7 @@ Only the following six metrics are computed and reported:
 Each run creates a separate results directory:
 
 ```text
-results90/{dataset}_{timestamp}/
+results/{dataset}_{timestamp}/
 ├── best_model.pth
 ├── best_results.json
 └── hyperparameters.json
